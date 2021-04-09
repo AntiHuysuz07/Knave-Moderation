@@ -234,8 +234,8 @@ const kiltifat = [
        
         channel.send(`
         ${config.hgemoji} **Sunucumuza Hoşgeldin** ${member.toString()} **Seninle Beraber** **${member.guild.memberCount}** **Kişiyiz** \n
-${config.hgemoji} **Kaydının Yapılması için Sesli Odaya Gelip Teyit Vermen Gerekli** \n
-${config.hgemoji} <@&${config.yetkilirol}> <@&${config.kayıtcırol}> **Rolündeki Yetkililer Seninle İlgilenecektir** \n
+${config.hgemoji} **Kayıt için **Confirmation** odalarına giriş yapabilirsin. \n
+${config.hgemoji} <#826789084084174863> **kanalına göz atmayı unutma!** \n
 ${config.hgemoji} **Hesap** **${hesapzaman}** **Önce Açılmış**`)
       });
 
